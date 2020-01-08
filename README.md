@@ -12,7 +12,7 @@ The [Unity ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents/bl
 
 In a nutshell, we teach the robotic arms to follow the targets by the Deep Deterministic Policy Gradient method.
 
-This environment rewards a reacher in the target location with +0.1. The vector observation space is 26 dimensional and the vector action space has 4 dimensions corresponding to the torque applicable to two joints. The environment is considered 'solved' when an average reward of +30 per episode is achieved. 
+This environment rewards a reacher in the target location with +0.1. The vector observation space is 33 dimensional and the vector action space has 4 dimensions corresponding to the torque applicable to two joints. The environment is considered 'solved' when an average reward of +30 per episode is achieved. 
 
 Due to the continuous action space, classical value-based methods are hard to apply. Instead, we solve the environment using the Deep Deterministic Policy Gradient (DDPG) method. This is a flavour of an actor-critic method, where the actor is trained to maximize the expected outcome as is predicted by the critic network. The twenty different robotic arms share their experiences and thus learn faster than a single actor.
 
