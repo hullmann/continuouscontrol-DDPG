@@ -1,15 +1,17 @@
 # Deep Reinforcement Learning Udacity Nanodegree
 ## Project 2: Continuous Control problem
-This project is about teaching robotic arms to reach and follow a target locations by the Deep Deterministic Policy Gradient method.
+The [Unity ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) contains the [Reacher Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) in which double-jointed arms have to move to target locations. 
 
 [//]: # (Image References)
 
 [image1]: https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif "Trained Agent"
 
 ![Robotic Reachers][image1]
+or see this [video](https://www.youtube.com/watch?v=2N9EoF6pQyE) for a demonstration.
 
 ### Project details
-The [Unity ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) contains the [Reacher Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) in which double-jointed arms should move to target locations. See this [video](https://www.youtube.com/watch?v=2N9EoF6pQyE) for a demonstration.
+
+This project is about teaching robotic arms to reach and follow a target locations by the Deep Deterministic Policy Gradient method.
 
 This environment rewards a reacher in the target location with +0.1. The vector observation space is 26 dimensional and the vector action space has 4 dimensions corresponding to the torque applicable to two joints. The environment is considered 'solved' when an average reward of +30 per episode is achieved.
 
