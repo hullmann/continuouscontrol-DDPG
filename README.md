@@ -33,4 +33,4 @@ I worked on this project as part of the [Deep Reinforcement Learning Udacity Nan
 Place the file in the `continuouscontrol-DDPG/` folder (cloned in step 2.), and unzip the file. 
 
 ## Instructions
-Follow the instructions in Continuous_Control.ipynb to train your agent or scroll to the bottom of the code to let the agent run based on pretrained weights.
+Follow the instructions in [Continuous_Control.ipynb](https://github.com/hullmann/continuouscontrol-DDPG/blob/master/Continuous_Control.ipynb) to train your agent or scroll to the bottom of the code to let the agent run based on pretrained weights.
