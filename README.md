@@ -4,9 +4,9 @@ The [Unity ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents/bl
 
 [//]: # (Image References)
 
-[image1]: https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif "Trained Agent"
+[image1]: https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif "Trained Agents"
 
-![Robotic Reachers][image1]
+![image1]
 or see this [video](https://www.youtube.com/watch?v=2N9EoF6pQyE) for a demonstration.
 
 ### Project details
